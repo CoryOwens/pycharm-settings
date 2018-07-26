@@ -36,6 +36,8 @@
   </action>
   <action id="EditorSelectWord" />
   <action id="GotoBookmark0" />
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
   <action id="IncrementWindowHeight" />
   <action id="IntroduceVariable" />
   <action id="MoveLineDown">
@@ -62,12 +64,16 @@
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="RunDashboard.ShowConfigurations" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl alt h" />
   </action>
