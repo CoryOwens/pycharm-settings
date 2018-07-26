@@ -1,8 +1,8 @@
 <keymap version="1" name="Custom" parent="$default">
   <action id="CallHierarchy" />
   <action id="ChangesView.ShelveSilently" />
-  <action id="CloseActiveTab">
-    <keyboard-shortcut first-keystroke="shift ctrl f4" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="Console.TableResult.NextPage" />
