@@ -20,7 +20,11 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
     <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="ctrl 0" />
+  </action>
   <action id="EditorSelectWord" />
+  <action id="GotoBookmark0" />
   <action id="IncrementWindowHeight" />
   <action id="IntroduceVariable" />
   <action id="MoveLineDown">
